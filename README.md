@@ -1,4 +1,4 @@
-# Transform Your Data into Stunning PDF Reports with Python and SQL.
+# Transform Data into PDF Reports with Python and SQL.
 
 In this project I have used Python and SQL to transform your data into PDF reports.
 
